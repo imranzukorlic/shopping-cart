@@ -15,14 +15,16 @@
   },
   {
     "id": 3,
-    "name": "Macbook Pro 14 M1 Pro 16GB/512GB",
+    "name": "Macbook Pro 14 M1 Pro ",
+    "memory": "16GB/512GB",
     "price": 2200,
     "imgUrl": "https://istyle.hu/media/wysiwyg/HU/landing-pages/preselection/mbp-14-sv.jpeg",
     "currency": "EUR"
   },
   {
     "id": 4,
-    "name": "Macbook Pro 16 M1 Pro 16GB/1TB",
+    "name": "Macbook Pro 16 M1 Pro ",
+    "memory": "16GB/1TB",
     "price": 3200,
     "imgUrl": "https://istyle.hu/media/wysiwyg/HU/landing-pages/preselection/mbp-16-sg.jpeg",
     "currency": "EUR"
@@ -32,6 +34,20 @@
     "name": "Apple Watch Ultra",
     "price": 1100,
     "imgUrl": "https://istyle.rs/pub/media/catalog/product/cache/image/400x400/beff4985b56e3afdbeabfc89641a4582/c/z/czcs_watchultra_cellular_q422_49mm_titanium_yellow_ocean_band_pdp_image_position-1_t_2_1.jpg",
+    "currency": "EUR"
+  },
+  {
+    "id": 6,
+    "name": "AirPods (3. gen)",
+    "price": 2000,
+    "imgUrl": "https://istyle.rs/media/catalog/product/cache/image/e9c3970ab036de70892d86c6d221abfe/m/m/mme73_av2_24.jpg",
+    "currency": "EUR"
+  },
+  {
+    "id": 7,
+    "name": "Apple Magnetic Fast Charger",
+    "price": 5.89,
+    "imgUrl": "https://istyle.rs/media/catalog/product/cache/image/700x700/e9c3970ab036de70892d86c6d221abfe/m/l/mlwj3.jpeg",
     "currency": "EUR"
   }
 ]
